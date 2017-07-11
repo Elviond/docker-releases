@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM arm32v6/alpine:3.5
 
 ENV LANG=en_US.UTF-8
 
